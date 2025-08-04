@@ -1,4 +1,4 @@
-# Python FizzBuzz
+# Python FizzBuzz by Ekaterina Belova
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
